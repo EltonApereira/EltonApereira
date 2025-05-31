@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Programador Web - Design - Editor de vieo e Fotografo</h2>
+<h2 align="center">Desenvolvedor Web - Design - Editor de vieo e Fotografo</h2>
 
 ###
 
