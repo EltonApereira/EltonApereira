@@ -58,28 +58,15 @@
 
 ###
 
-<h3 align="center">🔥   My Stats :</h3>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EltonApereira&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=EltonApereira&locale=pt-br&mode=daily&theme=gruvbox&hide_border=true&border_radius=5&order=3" height="190" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=EltonApereira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true&order=1" height="230" alt="stats graph"  />
+  <img height="200" src="https://i.imgur.com/dWsth7W.gif"  />
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EltonApereira/EltonApereira/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EltonApereira/EltonApereira/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EltonApereira/EltonApereira/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
-  <img height="200" src="https://i.imgur.com/dWsth7W.gif"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=EltonApereira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EltonApereira&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
