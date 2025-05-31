@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">🛠 Linguagem e Ferramentas</h3>
+<h2 align="center">Programador Web - Design - Editor de vieo e Fotografo</h2>
 
 ###
 
@@ -55,5 +55,13 @@
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EltonApereira/EltonApereira/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EltonApereira/EltonApereira/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EltonApereira/EltonApereira/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
